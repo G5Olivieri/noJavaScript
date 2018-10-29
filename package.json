@@ -1,0 +1,8 @@
+{
+  "name": "nojavascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/g5olivieri/nojavascript",
+  "author": "G5Murollo <glayson@vizir.com.br>",
+  "license": "MIT"
+}
