@@ -7,5 +7,6 @@ for(let copies of document.querySelectorAll('.copy')) {
     el.select();
     document.execCommand('copy');
     document.body.removeChild(el);
+
   })
 }
