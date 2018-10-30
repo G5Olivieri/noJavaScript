@@ -1,0 +1,4 @@
+a.copy:hover {
+  cursor: copy;
+  font-weight: bold;
+}
